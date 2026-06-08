@@ -1,5 +1,4 @@
 import Image from 'next/image'
-const testUnused = 'this variable is not used' // ESLint предупредит
 
 export default function Home() {
   return (
